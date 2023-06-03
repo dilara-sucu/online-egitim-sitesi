@@ -1,0 +1,467 @@
+.icon-facebook::before {
+    content: "\EA01"
+}
+
+.icon-replies::before {
+    content: "\EA02"
+}
+
+.icon-eye::before {
+    content: "\EA03"
+}
+
+.icon-arrow-left::before {
+    content: "\EA04"
+}
+
+.icon-hamburger::before {
+    content: "\EA05"
+}
+
+.icon-turkcell-logo-2::before {
+    content: "\EA06"
+}
+
+.icon-delete::before {
+    content: "\EA07"
+}
+
+.icon-error::before {
+    content: "\EA08"
+}
+
+.icon-attachment::before {
+    content: "\EA09"
+}
+
+.icon-filter::before {
+    content: "\EA10"
+}
+
+.icon-sort-desc::before {
+    content: "\EA11"
+}
+
+.icon-check-round::before {
+    content: "\EA12"
+}
+
+.icon-check::before {
+    content: "\EA13"
+}
+
+.icon-star-filled-v2::before {
+    content: "\EA14"
+}
+
+.icon-close::before {
+    content: "\EA18"
+}
+
+.icon-add-round::before {
+    content: "\EA1B"
+}
+
+.icon-faq::before {
+    content: "\EA25"
+}
+
+.icon-instagram::before {
+    content: "\EA2E"
+}
+
+.icon-microphone::before {
+    content: "\EA3A"
+}
+
+.icon-like::before {
+    content: "\EA3E"
+}
+
+.icon-eye-closed::before {
+    content: "\EA41"
+}
+
+.icon-hizli-giris::before {
+    content: "\EA48"
+}
+
+.icon-resize-radius::before {
+    content: "\EA49"
+}
+
+.icon-settings::before {
+    content: "\EA4A"
+}
+
+.icon-linkedin::before {
+    content: "\EA4E"
+}
+
+.icon-search::before {
+    content: "\EA50"
+}
+
+.icon-question::before {
+    content: "\EA51"
+}
+
+.icon-reply-line::before {
+    content: "\EA52"
+}
+
+.icon-comment::before {
+    content: "\EA53"
+}
+
+.icon-upload-file::before {
+    content: "\EA56"
+}
+
+.icon-attach::before {
+    content: "\EA57"
+}
+
+.icon-embed::before {
+    content: "\EA58"
+}
+
+.icon-quote::before {
+    content: "\EA59"
+}
+
+.icon-mail::before {
+    content: "\EA5E"
+}
+
+.icon-turkcell-logo::before {
+    content: "\EA60"
+}
+
+.icon-twitter::before {
+    content: "\EA61"
+}
+
+.icon-bold::before {
+    content: "\EA62"
+}
+
+.icon-italic::before {
+    content: "\EA63"
+}
+
+.icon-underline::before {
+    content: "\EA64"
+}
+
+.icon-bullets::before {
+    content: "\EA65"
+}
+
+.icon-link::before {
+    content: "\EA66"
+}
+
+.icon-unlink::before {
+    content: "\EA67"
+}
+
+.icon-addimage::before {
+    content: "\EA68"
+}
+
+.icon-youtube::before {
+    content: "\EA69"
+}
+
+.icon-telephone::before {
+    content: "\EA6E"
+}
+
+.icon-certificate::before {
+    content: "\EA70"
+}
+
+.icon-play::before {
+    content: "\EA71"
+}
+
+.icon-clock::before {
+    content: "\EA72"
+}
+
+.icon-level::before {
+    content: "\EA73"
+}
+
+.icon-user::before {
+    content: "\EA74"
+}
+
+.icon-google-plus::before {
+    content: "\EA75"
+}
+
+.icon-github::before {
+    content: "\EA76"
+}
+
+.icon-quick-login::before {
+    content: "\EA77"
+}
+
+.icon-return::before {
+    content: "\EA78"
+}
+
+.icon-calendar::before {
+    content: "\EA79"
+}
+
+.icon-close-round::before {
+    content: "\EA7E"
+}
+
+.icon-arrow-active::before,.filter__popup:before {
+    content: "\EA80"
+}
+
+.icon-exam::before {
+    content: "\EA81"
+}
+
+.icon-badge::before {
+    content: "\EA82"
+}
+
+.icon-notes::before {
+    content: "\EA83"
+}
+
+.icon-bookmark-filled::before {
+    content: "\EA84"
+}
+
+.icon-bookmark::before {
+    content: "\EA85"
+}
+
+.icon-copy::before {
+    content: "\EA86"
+}
+
+.icon-resize::before {
+    content: "\EA87"
+}
+
+.icon-lock::before {
+    content: "\EA88"
+}
+
+.icon-unlocked::before {
+    content: "\EA89"
+}
+
+.icon-info::before {
+    content: "\EA8E"
+}
+
+.icon-minus::before {
+    content: "\EA90"
+}
+
+.icon-plus::before {
+    content: "\EA91"
+}
+
+.icon-edit::before {
+    content: "\EA92"
+}
+
+.icon-reply::before {
+    content: "\EA93"
+}
+
+.icon-sort::before {
+    content: "\EA94"
+}
+
+.icon-share::before {
+    content: "\EA95"
+}
+
+.icon-star::before {
+    content: "\EA96"
+}
+
+.icon-star-filled::before {
+    content: "\EA97"
+}
+
+.icon-arrow-down-curved::before {
+    content: "\EA98"
+}
+
+.icon-sort-asc::before {
+    content: "\EA99"
+}
+
+.icon-target::before {
+    content: "\EA9E"
+}
+
+.filter {
+    cursor: pointer;
+    display: inline-block;
+    position: relative
+}
+
+.filter--opened {
+    position: relative
+}
+
+.filter--opened:before {
+    content: '';
+    position: absolute;
+    background: rgba(0,0,0,0.04);
+    left: -14px;
+    top: -7px;
+    width: calc(100% + 28px);
+    height: calc(100% + 14px);
+    border-radius: 20px
+}
+
+.filter--opened .filter__popup {
+    display: block
+}
+
+.filter__button {
+    position: relative;
+    z-index: 1
+}
+
+.filter__popup {
+    position: absolute;
+    left: 0;
+    top: calc(100% + 20px);
+    width: 580px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 8px 10px -5px rgba(0,0,0,0.1),0 6px 30px 5px rgba(0,0,0,0.1),0 16px 24px 2px rgba(0,0,0,0.1);
+    box-shadow: 0 8px 10px -5px rgba(0,0,0,0.1),0 6px 30px 5px rgba(0,0,0,0.1),0 16px 24px 2px rgba(0,0,0,0.1);
+    background-color: #ffffff;
+    display: none
+}
+
+@media screen and (max-width: 767px) {
+    .filter__popup {
+        position:fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: initial;
+        z-index: 99
+    }
+}
+
+.filter__popup:before {
+    font-family: 'IconFont';
+    position: absolute;
+    left: 28px;
+    top: -24px;
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    font-size: 28px;
+    color: #FFFF
+}
+
+.filter__title {
+    font-size: 1.375rem;
+    font-weight: bold;
+    color: #253342;
+    border-bottom: 1px solid #dee3ed;
+    position: relative;
+    padding: 24px 40px
+}
+
+.filter__close {
+    position: absolute;
+    right: 24px;
+    top: 28px;
+    z-index: 2
+}
+
+.filter__close i:before {
+    font-size: 24px !important;
+    font-weight: normal
+}
+
+.filter__content {
+    padding: 25px 40px
+}
+
+.filter__content b {
+    display: block;
+    font-size: 1.125rem;
+    line-height: 1.33;
+    color: #5f6b76;
+    margin-bottom: .625rem
+}
+
+@media screen and (max-width: 767px) {
+    .filter__content .m-grid-col-6 {
+        margin-bottom:1.875rem !important
+    }
+}
+
+.filter__content label {
+    display: block
+}
+
+.filter__content .filter-input {
+    width: 210px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: #ecf0f2;
+    position: relative;
+    margin-bottom: .625rem
+}
+
+.filter__content .filter-input input {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #8e9fad;
+    height: 100%;
+    padding: 0 .9375rem
+}
+
+.filter__content .filter-input i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    margin-top: -10px
+}
+
+.filter__content .filter-input i:before {
+    font-size: 1.25rem
+}
+
+.filter__content .filter-scroller {
+    max-height: 144px;
+    overflow: auto
+}
+
+@media screen and (max-width: 767px) {
+    .filter__content {
+        overflow:auto;
+        height: calc(100% - 80px);
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box
+    }
+}
+
+.filter__action {
+    text-align: center;
+    margin-top: 1.25rem
+}

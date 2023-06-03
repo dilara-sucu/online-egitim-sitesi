@@ -1,0 +1,89 @@
+.m-captcha {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: .5rem;
+    background-color: #fff;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #dee3ed;
+    padding: .3125rem 0 .3125rem .3125rem;
+    overflow: hidden
+}
+
+.m-captcha__code {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.m-captcha__code img {
+    height: 100%;
+    width: 100%
+}
+
+.m-captcha a {
+    position: relative;
+    right: 0;
+    padding: 0 1rem;
+    color: rgba(95,107,118,0.4)
+}
+
+.m-captcha a:after {
+    content: '';
+    width: 1px;
+    height: 3rem;
+    background: #dee3ed;
+    position: absolute;
+    top: -.6875rem;
+    left: 0
+}
+
+.m-captcha a.m-captcha__voice i:before {
+    font-size: 1rem
+}
+
+.m-captcha a.m-captcha__voice:after {
+    top: -.9375rem
+}
+
+#comment-form .m-captcha {
+    width: 40%
+}
+
+#comment-form .js-form-item-captcha {
+    width: 40%
+}
+
+#node-cevaplar-teaser-form .m-captcha {
+    width: 40%
+}
+
+#node-cevaplar-teaser-form .js-form-item-captcha {
+    width: 40%
+}
+
+.comment-cevap-yorumlari-form .m-captcha {
+    width: 40%
+}
+
+.comment-cevap-yorumlari-form .js-form-item-captcha {
+    width: 40%
+}
+
+label[for=edit-captcha--2] {
+    display: block !important
+}
+
+label[for=edit-captcha] {
+    display: block !important
+}

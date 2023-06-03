@@ -1,0 +1,538 @@
+.icon-facebook::before {
+    content: "\EA01"
+}
+
+.icon-replies::before {
+    content: "\EA02"
+}
+
+.icon-eye::before {
+    content: "\EA03"
+}
+
+.icon-arrow-left::before,.m-card-sub-training__link:after {
+    content: "\EA04"
+}
+
+.icon-hamburger::before {
+    content: "\EA05"
+}
+
+.icon-turkcell-logo-2::before {
+    content: "\EA06"
+}
+
+.icon-delete::before {
+    content: "\EA07"
+}
+
+.icon-error::before {
+    content: "\EA08"
+}
+
+.icon-attachment::before {
+    content: "\EA09"
+}
+
+.icon-filter::before {
+    content: "\EA10"
+}
+
+.icon-sort-desc::before {
+    content: "\EA11"
+}
+
+.icon-check-round::before {
+    content: "\EA12"
+}
+
+.icon-check::before {
+    content: "\EA13"
+}
+
+.icon-star-filled-v2::before {
+    content: "\EA14"
+}
+
+.icon-close::before {
+    content: "\EA18"
+}
+
+.icon-add-round::before {
+    content: "\EA1B"
+}
+
+.icon-faq::before {
+    content: "\EA25"
+}
+
+.icon-instagram::before {
+    content: "\EA2E"
+}
+
+.icon-microphone::before {
+    content: "\EA3A"
+}
+
+.icon-like::before {
+    content: "\EA3E"
+}
+
+.icon-eye-closed::before {
+    content: "\EA41"
+}
+
+.icon-hizli-giris::before {
+    content: "\EA48"
+}
+
+.icon-resize-radius::before {
+    content: "\EA49"
+}
+
+.icon-settings::before {
+    content: "\EA4A"
+}
+
+.icon-linkedin::before {
+    content: "\EA4E"
+}
+
+.icon-search::before {
+    content: "\EA50"
+}
+
+.icon-question::before {
+    content: "\EA51"
+}
+
+.icon-reply-line::before {
+    content: "\EA52"
+}
+
+.icon-comment::before {
+    content: "\EA53"
+}
+
+.icon-upload-file::before {
+    content: "\EA56"
+}
+
+.icon-attach::before {
+    content: "\EA57"
+}
+
+.icon-embed::before {
+    content: "\EA58"
+}
+
+.icon-quote::before {
+    content: "\EA59"
+}
+
+.icon-mail::before {
+    content: "\EA5E"
+}
+
+.icon-turkcell-logo::before {
+    content: "\EA60"
+}
+
+.icon-twitter::before {
+    content: "\EA61"
+}
+
+.icon-bold::before {
+    content: "\EA62"
+}
+
+.icon-italic::before {
+    content: "\EA63"
+}
+
+.icon-underline::before {
+    content: "\EA64"
+}
+
+.icon-bullets::before {
+    content: "\EA65"
+}
+
+.icon-link::before {
+    content: "\EA66"
+}
+
+.icon-unlink::before {
+    content: "\EA67"
+}
+
+.icon-addimage::before {
+    content: "\EA68"
+}
+
+.icon-youtube::before {
+    content: "\EA69"
+}
+
+.icon-telephone::before {
+    content: "\EA6E"
+}
+
+.icon-certificate::before {
+    content: "\EA70"
+}
+
+.icon-play::before {
+    content: "\EA71"
+}
+
+.icon-clock::before {
+    content: "\EA72"
+}
+
+.icon-level::before {
+    content: "\EA73"
+}
+
+.icon-user::before {
+    content: "\EA74"
+}
+
+.icon-google-plus::before {
+    content: "\EA75"
+}
+
+.icon-github::before {
+    content: "\EA76"
+}
+
+.icon-quick-login::before {
+    content: "\EA77"
+}
+
+.icon-return::before {
+    content: "\EA78"
+}
+
+.icon-calendar::before {
+    content: "\EA79"
+}
+
+.icon-close-round::before {
+    content: "\EA7E"
+}
+
+.icon-arrow-active::before {
+    content: "\EA80"
+}
+
+.icon-exam::before {
+    content: "\EA81"
+}
+
+.icon-badge::before {
+    content: "\EA82"
+}
+
+.icon-notes::before {
+    content: "\EA83"
+}
+
+.icon-bookmark-filled::before {
+    content: "\EA84"
+}
+
+.icon-bookmark::before {
+    content: "\EA85"
+}
+
+.icon-copy::before {
+    content: "\EA86"
+}
+
+.icon-resize::before {
+    content: "\EA87"
+}
+
+.icon-lock::before {
+    content: "\EA88"
+}
+
+.icon-unlocked::before {
+    content: "\EA89"
+}
+
+.icon-info::before {
+    content: "\EA8E"
+}
+
+.icon-minus::before {
+    content: "\EA90"
+}
+
+.icon-plus::before {
+    content: "\EA91"
+}
+
+.icon-edit::before {
+    content: "\EA92"
+}
+
+.icon-reply::before {
+    content: "\EA93"
+}
+
+.icon-sort::before {
+    content: "\EA94"
+}
+
+.icon-share::before {
+    content: "\EA95"
+}
+
+.icon-star::before {
+    content: "\EA96"
+}
+
+.icon-star-filled::before {
+    content: "\EA97"
+}
+
+.icon-arrow-down-curved::before {
+    content: "\EA98"
+}
+
+.icon-sort-asc::before {
+    content: "\EA99"
+}
+
+.icon-target::before {
+    content: "\EA9E"
+}
+
+.m-card-sub-training {
+    position: relative;
+    color: #253342;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 2px 12px -5px rgba(37,51,66,0.5);
+    box-shadow: 0 2px 12px -5px rgba(37,51,66,0.5);
+    -webkit-transition: -webkit-box-shadow 300ms;
+    transition: -webkit-box-shadow 300ms;
+    -o-transition: box-shadow 300ms;
+    transition: box-shadow 300ms;
+    transition: box-shadow 300ms, -webkit-box-shadow 300ms;
+    width: 280px;
+    height: 295px;
+    overflow: visible;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(16%, rgba(255,255,255,0)), color-stop(20%, #fff), to(#fff));
+    background-image: -o-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 16%, #fff 20%, #fff 100%);
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 16%, #fff 20%, #fff 100%);
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    letter-spacing: .2px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+}
+
+.m-card-sub-training__head {
+    overflow: hidden;
+    position: relative;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    height: 70px;
+    border-bottom-left-radius: 100% 25px;
+    border-bottom-right-radius: 100% 25px;
+    width: 280px;
+    padding: 0 6px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.m-card-sub-training__head h3 {
+    color: #fff;
+    margin: 0;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 18px 26px 0;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.3em;
+    text-align: left;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    display: -webkit-box;
+    height: 64.8px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 2
+}
+
+.m-card-sub-training__head img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 134px;
+    z-index: 1
+}
+
+.m-card-sub-training.m-card-sub-training--progress {
+    margin-bottom: 2rem
+}
+
+.m-card-sub-training__completed-body {
+    position: relative;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    background: #fff;
+    padding: 1rem 1.625rem 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.m-card-sub-training__completed-body figure {
+    margin-right: 1.25rem
+}
+
+.m-card-sub-training__completed-body figure img {
+    width: 4.375rem
+}
+
+.m-card-sub-training__completed-body span {
+    font-size: .875rem;
+    font-weight: 600;
+    line-height: 1.29;
+    color: #253342
+}
+
+.m-card-sub-training__completed-body:after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    height: 1px;
+    background-color: #ecf0f2;
+    width: 100%
+}
+
+.m-card-sub-training__body {
+    position: relative;
+    overflow: hidden;
+    text-align: left;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    background: #fff;
+    padding: 16px 26px 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.m-card-sub-training__body:after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    height: 1px;
+    background-color: #ecf0f2;
+    width: 100%
+}
+
+.m-card-sub-training__body p {
+    font-size: 14px;
+    color: #253342;
+    font-weight: 500;
+    line-height: 1.4em;
+    margin-bottom: 12px
+}
+
+.m-card-sub-training__foot {
+    height: 54px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 500;
+    color: #5f6b76;
+    padding: 0 26px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    z-index: 10;
+    background: #fff;
+    border-radius: 10px
+}
+
+.m-card-sub-training__link {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    color: #2855ac;
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    padding-right: 20px;
+    -ms-flex-item-align: start;
+    align-self: flex-start
+}
+
+.m-card-sub-training__link:after {
+    font-family: 'IconFont';
+    position: absolute;
+    right: 0px;
+    top: 2px;
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+
+.m-card-sub-training__percent {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.18px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px 0 10px;
+    border-radius: 15px;
+    background-color: #253342;
+    position: absolute;
+    bottom: -32px;
+    z-index: 8;
+    width: 100%;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0
+}
+
+.m-section.course-list .course-list__cards>div {
+    -webkit-box-flex: inherit !important;
+    -ms-flex-positive: inherit !important;
+    flex-grow: inherit !important
+}
